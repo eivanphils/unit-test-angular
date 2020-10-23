@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-jasmine-angular"
+    }
+  },
+  "defaultProject": "test-jasmine-angular",
+  "cli": {
+    "analytics": "b20def0e-6d1d-420c-9b47-3d37d0c3da03"
+  }
 }
